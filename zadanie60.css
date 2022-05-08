@@ -1,10 +1,10 @@
-div#blok1_lubkowski { width: 618px; background-color: green; color: white;}
-div#blok2_lubkowski { width: 618px; background-color: green; color: white;}
-div#blok3_lubkowski { width: 618px; background-color: green; color: white;}
+div#blok1_omilian { width: 618px; background-color: green; color: white;}
+div#blok2_omilian { width: 618px; background-color: green; color: white;}
+div#blok3_omilian { width: 618px; background-color: green; color: white;}
 
-div#blok1_lubkowski:hover { background-color: red; font-size: 21mm;}
-div#blok2_lubkowski:hover { background-color: orange; font-size: 21mm;}
-div#blok3_lubkowski:hover { background-color: yellow; font-size: 21mm;}
+div#blok1_omilian:hover { background-color: red; font-size: 21mm;}
+div#blok2_omilian:hover { background-color: orange; font-size: 21mm;}
+div#blok3_omilian:hover { background-color: yellow; font-size: 21mm;}
 
 
 
