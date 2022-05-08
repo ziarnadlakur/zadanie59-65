@@ -1,9 +1,7 @@
 <html>
-
 <head>
-
 <title> zadanie 63 </title>
-<link href="zadanie_63_lubk.css" rel="Stylesheet" type="text/css">
+<link href="zadanie63.css" rel="Stylesheet" type="text/css">
 
 </head>
 
@@ -17,13 +15,9 @@
         <p>Pierwszy akapit w ramach większego bloku DIV</p>
         <p>Drugi akapit w ramach większego bloku DIV</p>
         </div>
-
-
 </body>
 
 </html>
-
-
 p
 {
 font-size:14pt;
