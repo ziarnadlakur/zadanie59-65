@@ -1,14 +1,14 @@
 p
 {
-font-size:21mm; color:(255,255,0);
+font-size:21mm;font-color:(255,255,0);
 }
 p:lang(pl)
 {
-font-size: 28mm;color:(192,192,192)
+font-size: 28mm;font-color:(192,192,192)
 }
 p:lang(en)
 {
-font-size: 35mm;color:(0,0,255)
+font-size: 35mm;font-color:(0,0,255)
 }
 
 body {
