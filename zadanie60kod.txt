@@ -25,3 +25,14 @@
 </body>
 
 </html>
+
+div#blok1_omilian { width: 618px; background-color: green; color: white;}
+div#blok2_omilian { width: 618px; background-color: green; color: white;}
+div#blok3_omilian { width: 618px; background-color: green; color: white;}
+
+div#blok1_omilian:hover { background-color: red; font-size: 21mm;}
+div#blok2_omilian:hover { background-color: orange; font-size: 21mm;}
+div#blok3_omilian:hover { background-color: yellow; font-size: 21mm;}
+
+/* hover: to pseudoklasa która powoduje aktywowanie elementu po naruszeniu na niego kursorem dobry przykładem jest zmiana koloru elementu.
+Rafał Omilian */
