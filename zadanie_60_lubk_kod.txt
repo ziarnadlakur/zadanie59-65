@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <title> zadanie 60 </title>
+    <LINK href="zadanie_60_lubk.css" rel="stylesheet" 
+    type="text/CSS">
+
+</head>
+
+<body>
+
+<div id="blok1_lubkowski"> blok 1  </div>
+<br>
+<div id="blok2_lubkowski">  blok 2</div>
+<br>
+<div id="blok3_lubkowski"> blok 3 </div> 
+
+
+
+
+    <!-- hover; pseudoklasa która powoduje aktywowanie elementu po naruszeniu na niego kursorem, np zmiana koloru -->
+    <!-- Patryk Łubkowski -->
+</body>
+
+</html>
+
+
+
+div#blok1_lubkowski { width: 615px; background-color: green; color: white;}
+div#blok2_lubkowski { width: 615px; background-color: green; color: white;}
+div#blok3_lubkowski { width: 615px; background-color: green; color: white;}
+
+div#blok1_lubkowski:hover { background-color: lime; font-size: 19mm;}
+div#blok2_lubkowski:hover { background-color: red; font-size: 19mm;}
+div#blok3_lubkowski:hover { background-color: orange; font-size: 19mm;}
+
+
+
+/* hover; pseudoklasa która powoduje aktywowanie elementu po naruszeniu na niego kursorem, np zmiana koloru
+Patryk Łubkowski */

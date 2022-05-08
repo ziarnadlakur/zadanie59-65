@@ -1,0 +1,33 @@
+    <html>
+<head>
+
+<title> zadanie 59 </title>
+<LINK href="zadanie_59_lubk.css" rel="stylesheet" 
+type="text/CSS">
+</head>
+
+<body>
+    
+    <a href="http://zse.gda.pl"> zse </a>
+    <br> 
+    <a href="http://kuratorium.gda.pl"> kuratorium</a>
+
+    <div > Patryk Łubkowski 24.04.2022 r. </div>
+</body>
+
+<!-- text-decoration:none usuwa wszelkie dekoracje, np podkreślenie linku -->
+<!-- text-decoration:underline dodaje podkreślenie pod danym elementem tekstu -->
+<!-- Patryk Łubkowski --> 
+
+</html>
+
+
+div{ color: red; font-size: 2cm;}
+
+A { font-size: 18pt; text-decoration: none; }
+
+A:link { color: blue;}
+
+/* text-decoration:none usuwa wszelkie dekoracje, np podkreślenie linku 
+ text-decoration:underline dodaje podkreślenie pod danym elementem tekstu
+Patryk Łubkowski */

@@ -1,0 +1,12 @@
+div#blok1_lubkowski { width: 615px; background-color: green; color: white;}
+div#blok2_lubkowski { width: 615px; background-color: green; color: white;}
+div#blok3_lubkowski { width: 615px; background-color: green; color: white;}
+
+div#blok1_lubkowski:hover { background-color: lime; font-size: 19mm;}
+div#blok2_lubkowski:hover { background-color: red; font-size: 19mm;}
+div#blok3_lubkowski:hover { background-color: orange; font-size: 19mm;}
+
+
+
+/* hover; pseudoklasa która powoduje aktywowanie elementu po naruszeniu na niego kursorem, np zmiana koloru
+Patryk Łubkowski */

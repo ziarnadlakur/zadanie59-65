@@ -1,0 +1,35 @@
+<html>
+
+<head>
+
+<title> zadanie 63 </title>
+<link href="zadanie_63_lubk.css" rel="Stylesheet" type="text/css">
+
+</head>
+
+<body>
+    
+    <div>
+        <p>Pierwszy akapit w ramach większego bloku DIV</p>
+        <p>Drugi akapit w ramach większego bloku DIV</p>
+        </div>
+        <div>
+        <p>Pierwszy akapit w ramach większego bloku DIV</p>
+        <p>Drugi akapit w ramach większego bloku DIV</p>
+        </div>
+
+
+</body>
+
+</html>
+
+
+p
+{
+font-size:14pt;
+}
+p:first-child
+{
+font-size:10pt;
+font-style:italic;
+}
