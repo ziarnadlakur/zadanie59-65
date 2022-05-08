@@ -4,6 +4,8 @@ A { font-size: 18pt; text-decoration: none; }
 
 A:link { color: blue;}
 
-/* text-decoration:none usuwa wszelkie dekoracje, np podkreślenie linku 
- text-decoration:underline dodaje podkreślenie pod danym elementem tekstu
+/* text-decoration:none - usuwa wszelkie dekoracje.
+
+ text-decoration:underline - podkreśla dany element tekstu.
+
 Rafał Omilian */
