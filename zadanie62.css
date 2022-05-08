@@ -1,14 +1,14 @@
 p
 {
-font-size:18mm;
+font-size:21mm;
 }
 p:lang(pl)
 {
-font-size: 25mm;
+font-size: 28mm;
 }
 p:lang(en)
 {
-font-size: 32mm;
+font-size: 35mm;
 }
 
 body {
